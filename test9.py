@@ -1,3 +1,6 @@
+#Append and sum all the values
+
+ 
 a = []
 
 for i in range(1,11,2):

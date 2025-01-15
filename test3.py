@@ -1,3 +1,7 @@
+'''
+Maths Formula
+'''
+
 def add(a,b):
     return a+b
 

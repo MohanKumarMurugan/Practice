@@ -1,4 +1,6 @@
-a = int(input("Enter the numver"))
+#base1
+
+a = int(input("Enter the number"))
 
 if a<0:
     print("negative")
