@@ -10,7 +10,7 @@ def sorting(a):
 
 a = []
 
-numbers = int(input("Enter no of values : "))
+numbers = int(input("Enter no of elements : "))
 for i in range(numbers):
     values = int(input("values need to add in the list : "))
     a.append(values)

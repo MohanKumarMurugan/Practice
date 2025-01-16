@@ -2,7 +2,7 @@
 
 a = []
 
-numbers = int(input("Enter no of values : "))
+numbers = int(input("Enter no of Elements : "))
 for i in range(numbers):
     values = input("values need to add in the list : ")
     a.append(values)
