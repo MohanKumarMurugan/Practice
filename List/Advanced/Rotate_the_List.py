@@ -1,4 +1,4 @@
-#Rotate a List
+#Rotate a list to the left by n positions.
 
 # Input: lst = [1, 2, 3, 4, 5], n = 2
 # Output: [3, 4, 5, 1, 2]
