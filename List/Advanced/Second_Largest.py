@@ -23,4 +23,4 @@ print("Sorted List:", sorted_list)
 if len(list1) > 2:
     print(list1[-2])
 else:
-    print("None")
+    print("Doesn't Contain that much of Data")
